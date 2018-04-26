@@ -2,6 +2,10 @@
 
 A game where you can simulate forces between objects. Made in 2012.
 
+## Screencapture
+
+![Demo image](demo.gif)
+
 ## Getting Started
 
 Open this [link](https://rawgit.com/gimse/GravitySimulationGame/master/run_game.html). You can also download the repository and open run_game.html in you browser.
