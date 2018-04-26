@@ -4,15 +4,11 @@ A game where you can simulate forces between objects. Made in 2012.
 
 ## Getting Started
 
-Go to this [link](https://rawgit.com/gimse/GravitySimulationGame/master/run_game.thml)
+Open this [link](https://rawgit.com/gimse/GravitySimulationGame/master/run_game.html). You can also download the repository and open run_game.html in you browser.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Flash to run and Flash Professional to edit.
 
 ### Installing
 
