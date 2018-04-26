@@ -1,6 +1,6 @@
-# Project Title
+# Gravity Simulation Game
 
-One Paragraph of project description goes here
+A game where you can simulate forces between objects. Made in 2012.
 
 ## Getting Started
 
