@@ -1,18 +1,18 @@
-# Project Title
+# Gravity Simulation Game
 
-One Paragraph of project description goes here
+A game where you can simulate forces between objects. Made in 2012.
+
+## Screencapture
+
+![Demo image](demo.gif)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Open this [link](https://rawgit.com/gimse/GravitySimulationGame/master/run_game.html). You can also download the repository and open run_game.html in you browser.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Flash to run and Flash Professional to edit.
 
 ### Installing
 
